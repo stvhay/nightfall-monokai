@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/qiqloc6.png">
-  <img src="https://i.imgur.com/usEvW9d.png">
+  <img src="https://i.imgur.com/DDua011.png">
+  <img src="https://i.imgur.com/U82vYLM.png">
 </p>
 
 ## Features
@@ -17,6 +17,7 @@
 - A clean, dark look that's easy on the eyes
 - A compact sidebar to maximize space
 - Better chat input accessibility when using The Lounge as a PWA on iOS
+- Username color styles based on the default morning theme
 
 ## Installation
 
@@ -29,5 +30,5 @@ thelounge install thelounge-theme-nightfall
 ## How to Apply
 
 1. Open The Lounge
-2. Go to **Settings > Themes**
-3. Select **Nightfall** from the theme list
+2. Go to **Settings > Appearance**
+3. Scroll down and select **Nightfall** from the theme list
