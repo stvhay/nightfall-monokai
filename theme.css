@@ -136,7 +136,7 @@ span.not-secure-icon { color: #e3c567; }
 
 .context-menu-item.active, .textcomplete-item:focus, .textcomplete-item:hover,
 .textcomplete-menu .active, #chat .userlist .user.active {
-  background-color: #181818;
+  background-color: #262626;
 }
 
 #chat .msg[data-type="monospace_block"] .text, #context-menu, .mentions-popup,
