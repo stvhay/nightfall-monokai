@@ -137,7 +137,7 @@ span.not-secure-icon { color: #e3c567; }
 
 #chat .msg[data-type="monospace_block"] .text, #context-menu, .mentions-popup,
 .textcomplete-menu, #chat .userlist .count, form.message-search input,
-#connect input, #settings input, #settings textarea, #settings select, #form {
+#connect input, #settings input, #settings textarea, #settings select, #form, #chat .userlist .search {
   background: var(--body-bg-color-muted);
 }
 
