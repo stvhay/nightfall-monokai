@@ -1,7 +1,7 @@
 {
   "name": "thelounge-theme-nightfall",
-  "version": "1.1.2",
-  "description": "A simple and eye-friendly dark theme for The Lounge",
+  "version": "1.1.2.1",
+  "description": "A dark theme for The Lounge. Clean, simple and beautiful.",
   "main": "package.json",
   "license": "MIT",
   "keywords": [
@@ -13,12 +13,12 @@
     "name": "Nightfall",
     "type": "theme"
   },
-  "homepage": "https://github.com/snowfudge/thelounge-theme-nightfall",
+  "homepage": "https://github.com/snowfudge/nightfall",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snowfudge/thelounge-theme-nightfall.git"
+    "url": "git+https://github.com/snowfudge/nightfall.git"
   },
   "bugs": {
-    "url": "https://github.com/snowfudge/thelounge-theme-nightfall/issues"
+    "url": "https://github.com/snowfudge/nightfall/issues"
   }
 }

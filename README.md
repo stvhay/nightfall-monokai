@@ -1,6 +1,6 @@
 <h1 align="center">Nightfall theme for The Lounge</h1>
 
-<p align="center">A simple and eye-friendly dark theme for The Lounge</p>
+<p align="center">A dark theme for The Lounge. Clean, simple and beautiful.</p>
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/thelounge-theme-nightfall">
@@ -14,7 +14,7 @@
 
 ## Features
 
-- A clean, dark look that's easy on the eyes
+- A clean, simple and beautiful dark look that's easy on the eyes
 - A compact sidebar to maximize space
 - Better chat input accessibility when using The Lounge as a PWA on iOS
 - Username color styles based on the default morning theme
