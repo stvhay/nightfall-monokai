@@ -3,8 +3,12 @@
 <p align="center">A dark theme for The Lounge. Clean, simple and beautiful.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/npm/v/thelounge-theme-nightfall">
-  <img src="https://img.shields.io/npm/d18m/thelounge-theme-nightfall">
+  <a href="https://www.npmjs.com/package/thelounge-theme-nightfall">
+    <img alt="npm version" src="https://img.shields.io/npm/v/thelounge-theme-nightfall">
+  </a>
+  <a href="https://npm-stat.com/charts.html?package=thelounge-theme-nightfall&from=2025-03-27">
+    <img alt="Total downloads on npm" src="https://img.shields.io/npm/d18m/thelounge-theme-nightfall">
+  </a>
 </p>
 
 <p align="center">
