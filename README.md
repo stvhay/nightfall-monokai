@@ -2,9 +2,9 @@
 
 A monokai theme for The Lounge. Clean, simple and beautiful.
 
-Forked from nightfall theme.
+Forked from [nightfall](https://www.npmjs.com/package/thelounge-theme-midnight) theme.
 
-https://www.npmjs.com/package/thelounge-theme-monokai
+Colors from [[monokai-console](https://github.com/deejayy/thelounge-theme-monokai-console) theme.
 
 ## Features
 
@@ -24,4 +24,10 @@ thelounge install thelounge-theme-monokai
 1. Open The Lounge
 2. Go to **Settings > Appearance**
 3. Scroll down and select **Monokai** from the theme list
+
+
+# Screenshots
+
+![Settings Page](https://i.imgur.com/3QJqm9H.png "Settings Page")
+![Chat Page](https://i.imgur.com/EZ4XqbE.png "Chat Page")
 
