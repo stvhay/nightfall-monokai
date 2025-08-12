@@ -1,12 +1,13 @@
 {
   "name": "thelounge-theme-monokai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Monokai theme for The Lounge. Forked from Nighfall.",
   "license": "MIT",
   "keywords": [
     "thelounge",
     "thelounge-theme"
   ],
+  "main": "package.json",
   "thelounge": {
     "css": "theme.css",
     "name": "Monokai",
