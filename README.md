@@ -4,7 +4,7 @@ A monokai theme for The Lounge. Clean, simple and beautiful.
 
 Forked from [nightfall](https://www.npmjs.com/package/thelounge-theme-midnight) theme.
 
-Colors from [[monokai-console](https://github.com/deejayy/thelounge-theme-monokai-console) theme.
+Colors from [monokai-console](https://www.npmjs.com/package/thelounge-theme-monokai-console) theme.
 
 ## Features
 
