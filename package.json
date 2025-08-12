@@ -1,8 +1,7 @@
 {
-  "name": "thelounge-theme-nightfall",
-  "version": "1.1.4",
-  "description": "A dark theme for The Lounge. Clean, simple and beautiful.",
-  "main": "package.json",
+  "name": "thelounge-theme-monokai",
+  "version": "1.0.0",
+  "description": "A Monokai theme for The Lounge. Forked from Nighfall.",
   "license": "MIT",
   "keywords": [
     "thelounge",
@@ -10,15 +9,20 @@
   ],
   "thelounge": {
     "css": "theme.css",
-    "name": "Nightfall",
+    "name": "Monokai",
     "type": "theme"
   },
-  "homepage": "https://github.com/snowfudge/nightfall",
+  "files": [
+    "theme.css",
+    "README.md",
+    "package.json"
+  ],
+  "homepage": "https://github.com/stvhay/thelounge-theme-monokai",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snowfudge/nightfall.git"
+    "url": "git+https://github.com/stvhay/thelounge-theme-monokai.git"
   },
   "bugs": {
-    "url": "https://github.com/snowfudge/nightfall/issues"
+    "url": "https://github.com/stvhay/thelounge-theme-monokai/issues"
   }
 }

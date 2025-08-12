@@ -1,18 +1,31 @@
 /* Root Variables */
 :root {
-  --body-bg-color: #0d0d0d;
-  --body-bg-color-muted: #161616;
-  --window-bg-color: #121212;
-  --body-color: #ccc;
-  --body-color-muted: #aaa;
-  --button-color: #bbb;
-  --button-text-color-hover: #222;
-  --window-heading-color: #bbb;
-  --date-marker-color: #89b9f8; 
-  --unread-marker-color: #7fcaff;
-  --highlight-bg-color: #222;
-  --highlight-border-color: #666;
-  --link-color: #8dd7ff;
+  --color-black:       rgba(39,40,34,1);
+  --color-boldblack:   rgba(117,113,94,1);
+  --color-black-50:    rgba(39,40,34,0.5);
+  --color-boldgreen:   rgba(56,56,48,1);
+  --color-green:       rgba(166,226,46,1);
+  --color-blue:        rgba(102,217,239,1);
+  --color-boldblue:    rgba(165,159,133,1);
+  --color-boldyellow:  rgba(73,72,62,1);
+  --color-boldcyan:    rgba(204,102,51,1);
+  --color-white:       rgba(248,248,242,1);
+
+  --body-color: var(--color-white);
+  --window-bg-color: var(--color-black);
+  --body-color-muted: var(--color-boldblack);
+  --body-bg-color: var(--color-boldgreen);
+  --button-color: var(--color-green);
+  --button-text-color-hover: var(--color-black);
+  --overlay-bg-color: var(--color-black-50);
+  --link-color: var(--color-blue);
+  --window-heading-color: var(--color-boldblue);
+  --date-marker-color: var(--color-boldyellow);
+  --unread-marker-color: var(--color-boldcyan);
+  --highlight-bg-color: var(--color-boldgreen);
+  --highlight-border-color: var(--color-blue);
+  --upload-progressbar-color: var(--button-color);
+  --body-bg-color-muted: var(--color-boldyellow);
 }
 
 /* Typography & Placeholders */
@@ -203,3 +216,4 @@ span.not-secure-icon { color: #e3c567; }
     #form, #footer { margin-bottom: 25px; }
   }
 }
+
